@@ -30,25 +30,14 @@ Welcome to the **TODO List App**, a simple and efficient task management app bui
   <img src="https://github.com/user-attachments/assets/3cc809ae-2453-420a-a713-324a431731a1" alt="Image 2" style="width: 48%;"/>
 </div>
 
-<img width="50%" width="50%" alt="Screenshot 2024-09-107 at 10 18 59 PM"  src="https://github.com/user-attachments/assets/8bd1002f-8a9d-4179-a5d9-bcf358e8e505">
-
-.
-
-<img width="50%" width="50%" alt="Screenshot 2024-09-107 at 10 18 59 PM"  src="https://github.com/user-attachments/assets/3cc809ae-2453-420a-a713-324a431731a1">
-
-.
-
 - Main View with Nice Buttons and colors to add task.
 - 
-<img width="50%" width="50%" alt="Screenshot 2024-09-107 at 10 18 59 PM"  src="https://github.com/user-attachments/assets/0c52376b-9089-4f00-b1c5-f0cf0f94c164">
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/user-attachments/assets/0c52376b-9089-4f00-b1c5-f0cf0f94c164" alt="Image 1" style="width: 32%;"/>
+  <img src="https://github.com/user-attachments/assets/4394150a-6b5a-44c8-8a62-72fc117152f1" alt="Image 2" style="width: 32%;"/>
+  <img src="https://github.com/user-attachments/assets/af9d0a82-22d3-4b16-aca0-e383fcfce639" alt="Image 3" style="width: 32%;"/>
+</div>
 
-.
-
-<img width="50%" width="50%" alt="Screenshot 2024-09-107 at 10 18 59 PM"  src="https://github.com/user-attachments/assets/4394150a-6b5a-44c8-8a62-72fc117152f1">
-
-.
-
-<img width="50%" width="50%" alt="Screenshot 2024-09-107 at 10 18 59 PM"  src="https://github.com/user-attachments/assets/af9d0a82-22d3-4b16-aca0-e383fcfce639">
 
 - Craeted a Profile View Page to show the User details and LogOut Buttons.
 
