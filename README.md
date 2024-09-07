@@ -91,5 +91,5 @@ Feel free to submit pull requests or file issues with suggestions, bug reports, 
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the Personal License - see the LICENSE file for details.
 
