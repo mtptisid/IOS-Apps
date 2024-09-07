@@ -27,12 +27,29 @@ Welcome to the **TODO List App**, a simple and efficient task management app bui
 
   
 
----![Simulator Screenshot - iPhone 15 Pro - 2024-09-07 at 21 31 58](https://github.com/user-attachments/assets/8bd1002f-8a9d-4179-a5d9-bcf358e8e505)
+![Simulator Screenshot - iPhone 15 Pro - 2024-09-07 at 21 31 58](https://github.com/user-attachments/assets/8bd1002f-8a9d-4179-a5d9-bcf358e8e505)
 
+.
 
 ![Simulator Screenshot - iPhone 15 Pro - 2024-09-07 at 21 31 14](https://github.com/user-attachments/assets/3cc809ae-2453-420a-a713-324a431731a1)
 
+.
 
+- Main View with Nice Buttons and colors to add task.
+- 
+![Simulator Screenshot - iPhone 15 Pro - 2024-09-07 at 21 32 15](https://github.com/user-attachments/assets/0c52376b-9089-4f00-b1c5-f0cf0f94c164)
+
+.
+
+![Simulator Screenshot - iPhone 15 Pro - 2024-09-07 at 21 32 11](https://github.com/user-attachments/assets/4394150a-6b5a-44c8-8a62-72fc117152f1)
+
+.
+
+![Simulator Screenshot - iPhone 15 Pro - 2024-09-07 at 21 33 53](https://github.com/user-attachments/assets/af9d0a82-22d3-4b16-aca0-e383fcfce639)
+
+
+
+---
 ## ⚙️ Installation
 
 1. Clone the repository:
