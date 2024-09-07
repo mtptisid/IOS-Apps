@@ -47,7 +47,12 @@ Welcome to the **TODO List App**, a simple and efficient task management app bui
 
 ![Simulator Screenshot - iPhone 15 Pro - 2024-09-07 at 21 33 53](https://github.com/user-attachments/assets/af9d0a82-22d3-4b16-aca0-e383fcfce639)
 
+- Craeted a Profile View Page to show the User details and LogOut Buttons.
 
+
+![Simulator Screenshot - iPhone 15 Pro - 2024-09-07 at 21 32 06](https://github.com/user-attachments/assets/86297c58-6118-4e81-848d-6f3ce7fa315e)
+
+  
 
 ---
 ## ⚙️ Installation
