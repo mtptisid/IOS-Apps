@@ -27,7 +27,7 @@ Welcome to the **TODO List App**, a simple and efficient task management app bui
 
   
 
-![Simulator Screenshot - iPhone 15 Pro - 2024-09-07 at 21 31 58](https://github.com/user-attachments/assets/8bd1002f-8a9d-4179-a5d9-bcf358e8e505)
+<img width="1440" alt="Screenshot 2024-09-107 at 10 18 59 PM"  src="https://github.com/user-attachments/assets/8bd1002f-8a9d-4179-a5d9-bcf358e8e505">
 
 .
 
