@@ -31,26 +31,26 @@ Welcome to the **TODO List App**, a simple and efficient task management app bui
 
 .
 
-![Simulator Screenshot - iPhone 15 Pro - 2024-09-07 at 21 31 14](https://github.com/user-attachments/assets/3cc809ae-2453-420a-a713-324a431731a1)
+<img width="50%" width="50%" alt="Screenshot 2024-09-107 at 10 18 59 PM"  src="https://github.com/user-attachments/assets/3cc809ae-2453-420a-a713-324a431731a1">
 
 .
 
 - Main View with Nice Buttons and colors to add task.
 - 
-![Simulator Screenshot - iPhone 15 Pro - 2024-09-07 at 21 32 15](https://github.com/user-attachments/assets/0c52376b-9089-4f00-b1c5-f0cf0f94c164)
+<img width="50%" width="50%" alt="Screenshot 2024-09-107 at 10 18 59 PM"  src="https://github.com/user-attachments/assets/0c52376b-9089-4f00-b1c5-f0cf0f94c164">
 
 .
 
-![Simulator Screenshot - iPhone 15 Pro - 2024-09-07 at 21 32 11](https://github.com/user-attachments/assets/4394150a-6b5a-44c8-8a62-72fc117152f1)
+<img width="50%" width="50%" alt="Screenshot 2024-09-107 at 10 18 59 PM"  src="https://github.com/user-attachments/assets/4394150a-6b5a-44c8-8a62-72fc117152f1">
 
 .
 
-![Simulator Screenshot - iPhone 15 Pro - 2024-09-07 at 21 33 53](https://github.com/user-attachments/assets/af9d0a82-22d3-4b16-aca0-e383fcfce639)
+<img width="50%" width="50%" alt="Screenshot 2024-09-107 at 10 18 59 PM"  src="https://github.com/user-attachments/assets/af9d0a82-22d3-4b16-aca0-e383fcfce639">
 
 - Craeted a Profile View Page to show the User details and LogOut Buttons.
 
 
-![Simulator Screenshot - iPhone 15 Pro - 2024-09-07 at 21 32 06](https://github.com/user-attachments/assets/86297c58-6118-4e81-848d-6f3ce7fa315e)
+<img width="50%" width="50%" alt="Screenshot 2024-09-107 at 10 18 59 PM"  src="https://github.com/user-attachments/assets/86297c58-6118-4e81-848d-6f3ce7fa315e">
 
   
 
