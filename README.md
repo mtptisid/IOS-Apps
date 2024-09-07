@@ -25,7 +25,10 @@ Welcome to the **TODO List App**, a simple and efficient task management app bui
 
 - Created a good looking SignUP and Login Page.
 
-  
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/user-attachments/assets/8bd1002f-8a9d-4179-a5d9-bcf358e8e505" alt="Image 1" style="width: 48%;"/>
+  <img src="https://github.com/user-attachments/assets/3cc809ae-2453-420a-a713-324a431731a1" alt="Image 2" style="width: 48%;"/>
+</div>
 
 <img width="50%" width="50%" alt="Screenshot 2024-09-107 at 10 18 59 PM"  src="https://github.com/user-attachments/assets/8bd1002f-8a9d-4179-a5d9-bcf358e8e505">
 
