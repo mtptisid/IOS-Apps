@@ -16,18 +16,28 @@ Welcome to the **TODO List App**, a simple and efficient task management app bui
 ---
 
 ## 🖼️ Screenshots
-
+- Using the CodeX as IDE for the Project.
 <img width="1440" alt="Screenshot 2024-09-07 at 9 29 39 PM" src="https://github.com/user-attachments/assets/379339b9-ea06-4ae2-bde6-24840ca1e769">
 
-> _Replace with actual screenshots from your app_
+- Used Google Firebase for the database to save user and task details.
+  
+<img width="1440" alt="Screenshot 2024-09-07 at 10 18 59 PM" src="https://github.com/user-attachments/assets/5b35f817-5a54-41ee-94dd-bb7e74fc3c60">
 
----
+- Created a good looking SignUP and Login Page.
+
+  
+
+---![Simulator Screenshot - iPhone 15 Pro - 2024-09-07 at 21 31 58](https://github.com/user-attachments/assets/8bd1002f-8a9d-4179-a5d9-bcf358e8e505)
+
+
+![Simulator Screenshot - iPhone 15 Pro - 2024-09-07 at 21 31 14](https://github.com/user-attachments/assets/3cc809ae-2453-420a-a713-324a431731a1)
+
 
 ## ⚙️ Installation
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-todo-app.git
+   git clone https://github.com/mtptisid/your-todo-app.git
    ```
 
 2. Open the project in Xcode:
@@ -55,10 +65,12 @@ Welcome to the **TODO List App**, a simple and efficient task management app bui
 
 ## Project Structure
 
-- **ContentView.swift:** Contains the main user interface for the app.
-- **Task.swift:** Defines the Task model used to store task information.
-- **TaskRowView.swift:** Handles the display of individual tasks in the list.
-- **TaskListView.swift:** Displays the list of tasks and manages task operations.
+- **Views:** Contains the main user interface for the app.
+- **Tasks:** Defines the Task model used to store task information.
+- **ModeulViews:** Handles the display of individual tasks in the list.
+- **Modules:** Displays the list of tasks and manages task operations.
+- **Authentication:** created the login and Sign Up pages.
+- **FireBase:** using google firebase for the database
 
 ## Contributing
 
