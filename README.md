@@ -16,30 +16,29 @@ Welcome to the **TODO List App**, a simple and efficient task management app bui
 ---
 
 ## 🖼️ Screenshots
-- Using the CodeX as IDE for the Project.
+### Using the CodeX as IDE for the Project.
 <img width="1440" alt="Screenshot 2024-09-07 at 9 29 39 PM" src="https://github.com/user-attachments/assets/379339b9-ea06-4ae2-bde6-24840ca1e769">
 
-- Used Google Firebase for the database to save user and task details.
+### Used Google Firebase for the database to save user and task details.
   
 <img width="1440" alt="Screenshot 2024-09-07 at 10 18 59 PM" src="https://github.com/user-attachments/assets/5b35f817-5a54-41ee-94dd-bb7e74fc3c60">
 
-- Created a good looking SignUP and Login Page.
+### Created a good looking SignUP and Login Page.
 
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github.com/user-attachments/assets/8bd1002f-8a9d-4179-a5d9-bcf358e8e505" alt="Image 1" style="width: 48%;"/>
   <img src="https://github.com/user-attachments/assets/3cc809ae-2453-420a-a713-324a431731a1" alt="Image 2" style="width: 48%;"/>
 </div>
 
-- Main View with Nice Buttons and colors to add task.
-- 
+### Main View with Nice Buttons and colors to add task.
+
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github.com/user-attachments/assets/0c52376b-9089-4f00-b1c5-f0cf0f94c164" alt="Image 1" style="width: 32%;"/>
   <img src="https://github.com/user-attachments/assets/4394150a-6b5a-44c8-8a62-72fc117152f1" alt="Image 2" style="width: 32%;"/>
   <img src="https://github.com/user-attachments/assets/af9d0a82-22d3-4b16-aca0-e383fcfce639" alt="Image 3" style="width: 32%;"/>
 </div>
 
-
-- Craeted a Profile View Page to show the User details and LogOut Buttons.
+### Craeted a Profile View Page to show the User details and LogOut Buttons.
 
 
 <img width="50%" width="50%" alt="Screenshot 2024-09-107 at 10 18 59 PM"  src="https://github.com/user-attachments/assets/86297c58-6118-4e81-848d-6f3ce7fa315e">
